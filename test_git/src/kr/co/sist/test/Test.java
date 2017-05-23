@@ -7,7 +7,7 @@ public class Test {
 		System.out.println("변수 값 i="+i);
 		//kenshin2가 수정
 		int j=0;
-		System.out.println("j="+j);
+		System.out.println("j="+j); 
 	}
 
 }
